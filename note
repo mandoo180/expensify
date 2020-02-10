@@ -12,3 +12,8 @@ git remote set-url <remote-name: like origin> <remote-url>
 e.g. git remote set-url origin git@github.com:mandoo180/myapp.git
 
 you can check the config file at .git/config
+
+ls -a ~/.ssh
+
+sudo yarn add extract-text-webpack-plugin >> to extract css file from css and scss files
+
