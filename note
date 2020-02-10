@@ -1,0 +1,14 @@
+plugin for object spread
+npm install --save-dev babel-plugin-transform-object-rest-spread
+
+date manipulation
+sudo yarn add moment react-dates
+
+sudo yarn add react-redux for {connect} <Provider />
+
+## about git remote setting
+git remote -v // show git remotes
+git remote set-url <remote-name: like origin> <remote-url>
+e.g. git remote set-url origin git@github.com:mandoo180/myapp.git
+
+you can check the config file at .git/config
