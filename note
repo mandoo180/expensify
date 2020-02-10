@@ -15,5 +15,22 @@ you can check the config file at .git/config
 
 ls -a ~/.ssh
 
-sudo yarn add extract-text-webpack-plugin >> to extract css file from css and scss files
+sudo yarn add mini-css-extract-plugin >> to extract css file from css and scss files
+
+git add .
+git commit -m "first commit"  >> git commit -am "first commit" >> add + commit
+git remote add <github-url>
+git push -u origin master
+
+heroku create <app-name>
+git push heroku master ....build....
+heroku open
+heroku logs...
+
+before deploy the app, need to setup webpack and package.json....
+
+regular dependencies vs development dependencies
+sudo yarn add chalk --dev
+sudo yarn install --production >> install only regular dependencies
+sudo yarn install >> install all
 
